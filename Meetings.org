@@ -1,0 +1,98 @@
+* [2017-09-18]
+
+First meeting over [[https://hangouts.google.com/hangouts/_/gsu2yfz3j5cqvac6ztlovec7oee][hangouts]] at 2PM
+Topics for discussion based on Mohit's starting email
+
+
+** DONE Date
+CLOSED: [2017-09-18 Mon 14:05]
+2nd December, 2017 appears to be okay with everyone.
+
+
+** VERIFY Format
+- Workshop only
+- Talks only
+
+- Mixed
+  - Workshop on day 1
+    - We can use Clojurebridge as our reference point
+  - Talks on day 2
+
+- Workshop venues
+  - Bengaluru
+    - Concur office (Sat/Sun possible)
+    - Go-Jek
+    - Some startup incubator location (Ref: HasGeek - via Mohit)
+- Workshop size
+  - Assuming 50 participants
+  - Need to have multiple coaches sign-up
+    - Nilenso, Quintype as possible sources of coaches
+
+
+** TODO CFP
+ - Need to be done by coming Monday (25th September)
+ - Program Committee
+   - TD, KS, SD, BG
+ - Owner: Jaju
+
+
+** TODO Sponsorship Slabs
+- We need to fix slabs
+- Send emails to sponsors
+- Date: After finalizing the venues and getting an idea of the costs.
+- Owner: Jaju
+
+
+** TODO Website
+- Hosted on Github
+- Mohit will add all of us to the repo, and we can do a combined update of the website
+- Owner: Srihari
+
+
+** TODO Social Media outreach
+- Mohit to provide access to SM account(s)
+- Owner: Shantanu
+
+
+** [1/5] TODO Location
+Overall owner: Sandy(?)
+*** DONE City
+CLOSED: [2017-09-18 Mon 15:26]
+Choice: Bengaluru
+- Bengaluru
+  - Logically makes sense. Majority of the organizers are based in Bengaluru and most sponsors, and on-the-ground support, too will likely be in Bengaluru
+- Pune
+  - Too much of Bengaluru for every tech conf
+  - Need tech communities to be encouraged/nurtured/grown at other places
+  - Bengaluru gets it share of tech stuff, including Clojure (monthly meets)
+
+*** TODO Venue type
+- Hotel?
+- MLR (speak with Zainab)
+- Nimhans Convention Center (via Sandy)
+
+*** TODO Food Arrangements
+- Food arrangements are important, and if not part of the deal with the venue, good food should be accessible close-by.
+
+*** TODO AV arrangements
+  - MLR provides (From capturing to processing/uploading)
+  - AV needs to be fine-tuned beforehand. (Different speakers, devices, preferences)
+  - AV cost increases based on stage/backdrop/screen/cameras/people-who-handle
+  - Owner: Srihari
+
+*** TODO [0/4] Other points
+**** TODO Number of participants
+**** TODO Contract
+**** TODO Urgency - because of the wedding season coming.
+**** TODO Sponsorship + ticket prices => location
+
+
+** TODO Trust
+- Satish?
+ - Mohit reached out to him. Dinkar also pointed towards him
+- Mohit on it right now, but nothing is clear yet given the time-lines
+
+
+** TODO Sponsorship
+- Go-Jek (Srihari)
+- Nilenso (Srihari)
