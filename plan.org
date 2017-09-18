@@ -1,0 +1,19 @@
+*** TODO
+| Thing                 | Decide by | Owner           | Notes                                               |
+|-----------------------+-----------+-----------------+-----------------------------------------------------|
+| Date(s)               | 18/09     | -               | 02/12/17                                            |
+| Location              | 18/09     | -               | Bangalore                                           |
+| Format                | 18/09     | -               | Workshops only / Conference                         |
+| Trust                 | 18/09     | Mohith          | Talk to Tejas about GCRT                            |
+| Venue                 | 25/09     | Sandy           | Rs. 1000 per head, 1L - 1 ballroom, banquet hall    |
+| Audio Visual Ops      | 25/09     | Srihari         | Cost depends on stage, backdrop, cameras, screen    |
+| CFP                   | 25/09     | Jaju            | Post on Website, Broadcast on Twitter, papercall.io |
+| Website Updates       | 25/09     | Srihari         | Need to take care of aesthetics                     |
+| Social Media/Outreach | -         | Shantanu        | Post weekly on: Twitter, Google meetup, Clojurians  |
+| Sponsorship Slabs     | 27/09     | Jaju            | Nilenso, Go-Jek, Quintype, Helpshift, Multunus?     |
+| Program Committee     | 02/10     | ?               | BG, SD, KS, TD                                      |
+| Registrations         | 02/10     | ?               |                                                     |
+| Workshop Venue        | ?         | ?               | Ensure food nearby                                  |
+| Workshop plan         | 02/10     | Srihari / Sandy | Decide target audience                              |
+| Opportunity Grant     |           | Mohith          |                                                     |
+| Ticket sales          | later     | ?               | Townscript                                          |
