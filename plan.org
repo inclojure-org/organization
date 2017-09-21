@@ -19,16 +19,22 @@
 | Ticket sales          | later     | ?               | Townscript                                          |
 *** Venue Options
 
-| venue            | location         | prev conferences | availability      | cost per person | cost per day | av? | catering? |
-|------------------+------------------+------------------+-------------------+-----------------+--------------+-----+-----------|
-| Weworks          |                  | coalition        |                   |                 |              |     |           |
-| Royal Orchid     | old airport road |                  | yes, both 1 and 2 |            1000 |              |     |       950 |
-| Magrath Hotel    | near to metro    |                  |                   |                 |              |     |           |
-| Park             | Marathalli       |                  |                   |                 |              |     |           |
-| Indiranagar Club | Indiranagar      |                  |                   |                 |        85000 |     |        no |
-| IISC             |                  |                  |                   |                 |              |     |           |
-| NIMHANS          |                  |                  |                   |                 |              |     |           |
-| Taj Vivanta      | MG Road          |                  | only on 1st dec   |            1600 |              |     |           |
-| Taj Vivanta      | Yeshwantpur      |                  | only on 3rd dec   |            1350 |              |     |           |
-| Taj Gateway      |                  |                  |                   |            3500 |              |     |      1350 |
-|                  |                  |                  |                   |                 |              |     |           |
+**** things we need
+- Seating: 30 tables, 5 chairs per table
+- Stage
+- Podium
+
+| venue          | location         | prev conferences | availability      | food costs per person | food per day | venue cost | av cost | tot cost per day |
+|----------------+------------------+------------------+-------------------+-----------------------+--------------+------------+---------+------------------|
+| WeWork Galaxy  | Residency Road   | Coalition        |                   |                       |            0 |            |         |                0 |
+| Royal Orchid   | old airport road |                  | yes, both 1 and 2 |                   950 |        95000 |          0 |   10000 |           105950 |
+| Taj Gateway    | Residency Road   |                  | yes, both 1 and 2 |                  1350 |       135000 |       3500 |    5000 |           144850 |
+| Magrath Hotel  | near to metro    |                  |                   |                       |            0 |            |         |                0 |
+| Park           | Marathalli       |                  |                   |                       |            0 |            |         |                0 |
+| Sangeeth Sabha | Indiranagar      |                  |                   |                       |            0 |            |         |                0 |
+| IISC           |                  |                  |                   |                       |            0 |            |         |                0 |
+| NIMHANS        |                  |                  |                   |                       |            0 |            |         |                0 |
+| Taj Vivanta    | MG Road          |                  | only on 1st dec   |                       |            0 |       1600 |         |             1600 |
+| Taj Vivanta    | Yeshwantpur      |                  | only on 3rd dec   |                       |            0 |       1350 |         |             1350 |
+|                |                  |                  |                   |                       |            0 |            |         |                0 |
+#+TBLFM: $6=$5*100::$9=$5+$6+$7+$8
