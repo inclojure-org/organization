@@ -17,3 +17,18 @@
 | Workshop plan         | 02/10     | Srihari / Sandy | Decide target audience                              |
 | Opportunity Grant     |           | Mohith          |                                                     |
 | Ticket sales          | later     | ?               | Townscript                                          |
+*** Venue Options
+
+| venue            | location         | prev conferences | availability      | cost per person | cost per day | av? | catering? |
+|------------------+------------------+------------------+-------------------+-----------------+--------------+-----+-----------|
+| Weworks          |                  | coalition        |                   |                 |              |     |           |
+| Royal Orchid     | old airport road |                  | yes, both 1 and 2 |            1000 |              |     |       950 |
+| Magrath Hotel    | near to metro    |                  |                   |                 |              |     |           |
+| Park             | Marathalli       |                  |                   |                 |              |     |           |
+| Indiranagar Club | Indiranagar      |                  |                   |                 |        85000 |     |        no |
+| IISC             |                  |                  |                   |                 |              |     |           |
+| NIMHANS          |                  |                  |                   |                 |              |     |           |
+| Taj Vivanta      | MG Road          |                  | only on 1st dec   |            1600 |              |     |           |
+| Taj Vivanta      | Yeshwantpur      |                  | only on 3rd dec   |            1350 |              |     |           |
+| Taj Gateway      |                  |                  |                   |            3500 |              |     |      1350 |
+|                  |                  |                  |                   |                 |              |     |           |
