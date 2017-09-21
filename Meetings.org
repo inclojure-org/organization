@@ -1,15 +1,13 @@
 * [2017-09-18]
-
 First meeting over [[https://hangouts.google.com/hangouts/_/gsu2yfz3j5cqvac6ztlovec7oee][hangouts]] at 2PM
 Topics for discussion based on Mohit's starting email
-
-
-** DONE Date
+** jaju's notes
+*** DONE Date
 CLOSED: [2017-09-18 Mon 14:05]
 2nd December, 2017 appears to be okay with everyone.
 
 
-** VERIFY Format
+*** VERIFY Format
 - Workshop only
 - Talks only
 
@@ -29,32 +27,32 @@ CLOSED: [2017-09-18 Mon 14:05]
     - Nilenso, Quintype as possible sources of coaches
 
 
-** TODO CFP
- - Need to be done by coming Monday (25th September)
- - Program Committee
-   - TD, KS, SD, BG
- - Owner: Jaju
+*** TODO CFP
+  - Need to be done by coming Monday (25th September)
+  - Program Committee
+    - TD, KS, SD, BG
+  - Owner: Jaju
 
 
-** TODO Sponsorship Slabs
+*** TODO Sponsorship Slabs
 - We need to fix slabs
 - Send emails to sponsors
 - Date: After finalizing the venues and getting an idea of the costs.
 - Owner: Jaju
 
 
-** TODO Website
+*** TODO Website
 - Hosted on Github
 - Mohit will add all of us to the repo, and we can do a combined update of the website
 - Owner: Srihari
 
 
-** TODO Social Media outreach
+*** TODO Social Media outreach
 - Mohit to provide access to SM account(s)
 - Owner: Shantanu
 
 
-** [1/5] TODO Location
+*** [1/5] TODO Location
 Overall owner: Sandy(?)
 *** DONE City
 CLOSED: [2017-09-18 Mon 15:26]
@@ -87,12 +85,69 @@ Choice: Bengaluru
 **** TODO Sponsorship + ticket prices => location
 
 
-** TODO Trust
+*** TODO Trust
 - Satish?
  - Mohit reached out to him. Dinkar also pointed towards him
 - Mohit on it right now, but nothing is clear yet given the time-lines
 
 
-** TODO Sponsorship
+*** TODO Sponsorship
 - Go-Jek (Srihari)
 - Nilenso (Srihari)
+** sandy's notes
+- date: 2nd & 3rd dec?
+- location: blr (3 people in blr, running around will be involved)
+- fix a venue now: wedding season
+
+- hotels might have conference packages
+- conventions might be cheaper though -- MLR, NIMHANS
+
+- get day in your head chalked out before talking to hotels
+- price is typically open to negotiation
+
+- ticket prices needn't be directly correlated to hotel costs etc
+- sponsorships could subsidise ticket costs
+
+- last year's hotel prices: 1k per head, minimum guarantee of 100 people
+- prices will be different in blr though
+
+- AV: you pay for the stage, screen, backdrop, cameras
+
+- mohit: will link my spreadsheet from last year
+
+- sandy: will call up hotels and get prices
+
+- five talks should be enough for one day
+
+- srihari: one day of workshops
+- keep workshop open to everyone
+
+- clojurebridge has a curriculum in place, which will be helpful
+- clojurebridge has to be free? would that work?
+
+- we could alternatively just use their curriculum; can't conduct this under the clojurebridge banner
+
+- shantanu: concur office is big enough for a workshop, but depends on date
+- won't work on a weekday
+
+- had 90 last year
+- would budget for 100 - 150 people
+
+- AV is important; want someone who understands tech conferences
+- expect around 50 at workshop
+- 1:10 workshop coaches
+
+- if garden city trust doesn't work, might try ETT by ajey, niranjan, sidu etc
+- mohit: will oversee trust things
+
+- mohit will add us to the website github repo
+- srihari will own look and feel of the website
+
+- sponsorship
+- mohit: this will depend on our costs
+- will have to send out emails to potential sponsors
+- got initial responses from go-jek and nilenso already
+
+- AV: srihari and sandy
+
+- should keep food arrangements in mind along with venue
