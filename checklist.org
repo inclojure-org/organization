@@ -1,0 +1,56 @@
+* Checklist for Organizers
+** Top level
+- [-] Decide organizing team (3 < n < 10)
+- [-] Decide city, ensure someone in the team can do ground work in the city
+- [-] Meet up physically, or over video-chat at least once
+- [-] Understand motive for conference, decide theme (if any)
+- [-] Decide target number of participants
+- [-] Divide responsibilities, assign owners at the highest level
+- [-] Decide timeline of TODOs, make a list like so: https://github.com/inclojure-org/organization/blob/master/plan.org
+- [-] Discuss commercials broadly, keep it realistic
+
+** Venue
+- [-] Make a list of potential Venues
+- [-] Research, call them up, find out availability
+- [-] Fill up relevant details in table like https://github.com/inclojure-org/organization/blob/master/plan.org#venue-options
+- [-] Visit venue, evaluate choices
+- [-] Ensure spaces for: sponsor booths, hallway track, snacks, registration, etc
+
+** Commercials
+
+** Sponsorship
+
+** Invite Speakers
+- [-] Make fantasy list of speakers to invite, trim it down. Max 3.
+- [-] Talk, or Write to speakers interested in order of priority
+- [-] Follow up, get approval.
+- [-] Arrange for their accommodation, share details with them.
+
+** Talks
+- [-] Open CFP
+  - [-] Decide types of talks, open/close dates, speaker benefits
+  - [-] Finalize CFP form, and add all above details on page
+  - [-] Link to CFP from website and vice versa
+  - [-] Publicize CFP
+  - [-] Write to all the clojure companies, asking them to encourage speakers
+  - [-] Keep publicizing CFP until we have enough submissions
+- [-] Talk Selection
+  - [-] Decide committee for the year (preferably at least one organizer in it)
+  - [-] Write to them, get approval
+  - [-] Share proposals over github, etc
+  - [-] Set up a google spreadsheet with columns for judgement
+  - [-] Set date for selection of talks, get committee to evaluate by then
+  - [-] Announce talks, publicize with schedule.
+
+** Tickets
+- [-] Decide pricing
+  - Example: [Day 1: 1000], [Day 2: 2000], [Day 1+2: 2500]
+- [-] Set up ticketing portal
+- [-] Ensure bank details are set
+- [-] Announce opening of tickets, publicize
+
+** A/V
+
+** Workshop
+
+** Media
