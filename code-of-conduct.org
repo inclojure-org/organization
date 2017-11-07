@@ -1,0 +1,83 @@
+* Code of Conduct
+
+IN/Clojure is a community organized conference intended for advocating the use and
+adoption of the Clojure programming language in India. It is also a platform for
+fostering networking and collaboration among the Clojure developer community in India.
+
+We value the participation of every member of the community and want all attendees to
+have an enjoyable and rewarding experience. Our conference is dedicated to providing
+a harassment-free conference experience for everyone, regardless of gender, gender
+identity and expression, age, sexual orientation, disability, physical appearance,
+body size, race, ethnicity, religion (or lack thereof), or technology choices.
+
+To make clear what is expected, all delegates/attendees, speakers, exhibitors,
+organizers and volunteers at IN/Clojure are required to conform to the following
+Code of Conduct. Organizers will enforce this code throughout the event.
+
+** Short Version
+
+Our conference is dedicated to providing a harassment-free conference experience for
+everyone, regardless of gender, gender identity and expression, age, sexual
+orientation, disability, physical appearance, body size, race, ethnicity, religion
+(or lack thereof), or technology choices.
+
+We do not tolerate harassment of conference participants in any form.
+
+Sexual language and imagery is not appropriate for any conference venue, including
+talks, workshops, parties, Twitter and other online media.
+
+Conference participants violating these rules may be sanctioned or expelled from the
+conference without a refund at the discretion of the conference organisers.
+
+** Long Version
+
+*** Code for Speakers
+
+- Every speaker must submit his/her slides atleast a day before their presentation to
+  ensure that they are in the clear.
+
+We strongly condemn:
+
+- Harassment of conference participants in any form.
+- Use of sexual language and imagery unless absolutely relevant to the discussion.
+- Offensive remarks or jokes made about women, men, persons of non-binary genders and
+  those with physical disabilities, or on the basis of sexuality, race, caste or
+  religion.
+
+IN/Clojure organizers reserve the right to stop a speaker during her/his talk if s/he makes
+overt or subtle remarks which violate this code of conduct.
+
+*** Code for Exhibitors/Sponsors
+
+We strongly condemn:
+
+- Harassment of conference participants in any form.
+- Using imagery and verbal remarks that can be interpreted as a certain gender’s
+  incompetence /inability to understand and use technology.
+- Using images of men and women in promotional material without specifying the exact
+  context in which these images have to be interpreted. For e.g., use of a woman’s
+  face for advertising job openings / recruitment is acceptable only if the woman is
+  an employee of the company, and her name and designation are mentioned on the
+  material.
+
+*** Code for Participants
+
+- We strongly condemn harassing behaviour in any form.
+- Attendees asked to stop any harassing behaviour are expected to comply immediately.
+- If an attendee engages in behaviour that violates this code of conduct, the
+  conference organisers may take any action they deem appropriate, including warning
+  the offender or expelling him or her from the premises with no refund.
+
+
+* Contact Information
+
+If you are being harassed, have noticed that someone else is being harassed, or have
+any other concerns, please contact any of these individuals:
+
+- Deepa Venkatraman
+- Kiran Gangadharan: +91-9003010649
+- Mohit Thatte
+- Ravindra R.Jaju
+- Sandilya Jandhyala
+- Shantanu Kumar
+- Srihari Sriraman
