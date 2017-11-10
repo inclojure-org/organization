@@ -7,7 +7,7 @@
 * Define basic functions with defn
 * conditionals with if; truthiness and falsiness
 * bindings with let
-* aggregates: vectors, maps, sets. Introduce the ideas of immutability and persistent data structures
+* collections: vectors, maps, sets. Introduce the ideas of immutability and persistent data structures
 * destructuring with let
 
 ### Working with functions
