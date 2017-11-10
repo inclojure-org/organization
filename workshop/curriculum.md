@@ -19,3 +19,13 @@
 * operating on functions: partial, comp, juxt
 * anonymous functions and closures
 * higher-order functions: map, filter, reduce
+
+### Project Management
+* namespaces and organising clojure code
+* introduce leiningen
+* setting up a project with lein new
+* adding a dependency using lein, and requiring it in a namespace
+
+### Sample project
+* Given a Twitter handle, find out if the user has ever tweeted about Clojure
+* Basically, search for "clojure" in all their tweets
