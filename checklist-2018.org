@@ -1,60 +1,60 @@
 ** Remaining things todo for this year
 
-*** Venue
-- [X] Venue
-- [ ] Design for IN/Clojure Stage
-  - [ ] Finalize branding: get designer?
-  - [ ] Banners
-  - [ ] Pamphlets
-- [-] Wifi
-  - [X] Decide Vendor
-  - [ ] [20th Nov] Make payment
-- [ ] Negotiate room rates with RO
-- [ ] [1st Dec] Decide A/V vendor
-  - [ ] Find out how it was done last year
-  - [ ] Find a vendor who can do slides + video
-- [ ] Do we have a Friday/Saturday night party? Or get together? Board-game night? [20th Nov]
-  - [ ] Find an owner for this
-- [ ] [20th Jan, post conf] Make final payment
-
 *** Invited speakers
 - [-] [1st Dec] Second invited speaker
   - [X] Get David Nolen
   - [X] Write to Malcolm Sparx, or Sam Aarom, or Antonio.
   - [ ] Ask for confirmation within a week
-- [ ] Arrange acco for Zach, send him details
-- [ ] Acco for second speaker, coordinate
+- [ ] [1st Dec] Arrange acco for Zach, send him details
+- [ ] [1st Dec] Acco for second speaker, coordinate
 
-*** Talk selection
-- [X] Write to talk selection committee (BG + SD + someone in org team)
-- [ ] Decide who from the organisation team will be on the TSC
-- [ ] Create excel sheet for evaluation of talks, use papercall's interface
-- [ ] Announce Close of CFP a few times [2 weeks to go, 1 week to go, 3 days to go, last day]
-- [ ] Coordinate talk selection process, ensure committee is briefed on requirements
-- [ ] [12th December] Finalize talks
-- [ ] [13th December] Announce final schedule
+*** Swag / Give-aways
+- [X] Decide owners
+- [ ] [20th Nov] Decide what we're giving away
+- [ ] [1st Dec] Give orders for t-shirts
+- [ ] Mugs?
+- [ ] [8th Dec] Give orders for lanyards
+- [ ] [15th Nov] [Srihari] Give orders for stickers
 
 *** Sponsors
 - [ ] Follow up with potential sponsors
   - [ ] Announce on twitter
   - [ ] send emails asking them for details
 
+*** Venue
+- [X] Venue
+- [ ] [8th Dec] Design for IN/Clojure Stage
+  - [ ] Finalize branding: get designer?
+  - [ ] Banners
+  - [ ] Pamphlets
+- [-] Wifi
+  - [X] Decide Vendor
+  - [ ] [20th Nov] Make payment
+- [ ] [20th Nov] Negotiate room rates with RO
+- [ ] [1st Dec] Decide A/V vendor
+  - [ ] Find out how it was done last year
+  - [ ] Find a vendor who can do slides + video
+- [ ] [20th Nov] Do we have a Friday/Saturday night party? Or get together? Board-game night? [20th Nov]
+  - [ ] Find an owner for this
+- [ ] [20th Jan, post conf] Make final payment
+
+*** Talk selection
+- [X] Write to talk selection committee (BG + SD + someone in org team)
+- [ ] [27th Nov] Decide who from the organisation team will be on the TSC
+- [ ] [27th Nov] Create excel sheet for evaluation of talks, use papercall's interface
+- [ ] Announce Close of CFP a few times [2 weeks to go, 1 week to go, 3 days to go, last day]
+- [ ] [1st Dec] Coordinate talk selection process, ensure committee is briefed on requirements
+- [ ] [12th December] Finalize talks
+- [ ] [13th December] Announce final schedule
+
+*** Workshop
+- [ ] [18th Nov] Finalize list of tutors
+- [ ] [25th Nov] Finalize workshop content
+- [ ] [12th Dec] Write to attendees about setup instructions
+- [ ] [12th Dec] Write to tutors, thanking them for volunteering, and giving any instructions
+
 *** Tickets
 - [ ] Sell tickets
   - [ ] Tweet again, ask more people to retweet
   - [ ] Write to all the potential sponsors asking them to
   - [ ] Write to potential sponsors about tickets being available
-
-*** Swag / Give-aways
-- [X] Decide owners
-- [ ] Decide what we're giving away
-- [ ] Give orders for t-shirts
-- [ ] Mugs?
-- [ ] Give orders for lanyards
-- [ ] Give orders for stickers
-
-*** Workshop
-- [ ] Finalize list of tutors
-- [ ] Finalize workshop content
-- [ ] Write to attendees about setup instructions
-- [ ] Write to tutors, thanking them for volunteering, and giving any instructions
