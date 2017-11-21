@@ -5,6 +5,8 @@
 * primitives: numbers, keywords, strings, booleans, nil
 * Collection literals: lists, vectors, maps, sets
 * Name things using def
+* The idea of 'var's - and the idea of interning, namespaces and bindings
+ - And why 'def' is to be used with care, and at the top level (conventionally)
 * Define basic functions with defn
 * conditionals with if; truthiness and falsiness
 * bindings with let
