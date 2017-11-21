@@ -3,6 +3,7 @@
 ### Clojure Basics
 * Writing simple expressions; prefix notation; introduce the idea of forms/s-expressions
 * primitives: numbers, keywords, strings, booleans, nil
+* Collection literals: lists, vectors, maps, sets
 * Name things using def
 * Define basic functions with defn
 * conditionals with if; truthiness and falsiness
