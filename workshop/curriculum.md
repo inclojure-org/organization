@@ -30,5 +30,4 @@
 * adding a dependency using lein, and requiring it in a namespace
 
 ### Sample project
-* Given a Twitter handle, find out if the user has ever tweeted about Clojure
-* Basically, search for "clojure" in all their tweets
+* TBD -- this is still under discussion.
