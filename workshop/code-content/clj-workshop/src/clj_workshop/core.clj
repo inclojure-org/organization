@@ -1,7 +1,8 @@
 ;; lein new clj_workshop
 ;; and replace core.clj contents with this snippet:
 
-(ns clj-workshop.core)
+(ns clj-workshop.core
+  (:use clojure.repl))
 
 ;; We are searching for Earth-like planets
 ;; cf. https://en.wikipedia.org/wiki/Earth-like_planet
@@ -85,14 +86,13 @@
 
 
 ;; Ok, fine, but now I want a subset of the planet's properties...
-(let [planet {:name    "Earth"
-              :mass    1
-              :density 5.5
-              :atmosphere
-                       {:nitrogen           0.78
-                        :oxygen             0.20
-                        :carbon-dioxide     0.04
-                        :water              0.01}}]
+(let [planet {:name       "Earth"
+              :mass       1
+              :density    5.5
+              :atmosphere {:nitrogen       0.78
+                           :oxygen         0.20
+                           :carbon-dioxide 0.04
+                           :water          0.01}}]
   (select-keys planet [:name :mass :density]))
 
 ;; select-keys takes a map and a sequence of keys,
@@ -110,16 +110,25 @@
 ;; Hold forth on the let form, and introduce lexical scope
 ;; (see how far we got without def-ing things?)
 
-;; Let's define a global reference 'planet'
-(comment                                                    ;; uncomment + eval to def
-  (def planet
-    {:name       "Earth"
-     :mass       1
-     :density    5.5
-     :atmosphere {:nitrogen       0.78
-                  :oxygen         0.20
-                  :carbon-dioxide 0.04
-                  :water          0.01}}))
+;; Let's define a global reference 'planet', and perhaps another planet that we can work with.
+
+(def planet
+  {:name       "Earth"
+   :mass       1
+   :density    5.5
+   :atmosphere {:nitrogen       0.78
+                :oxygen         0.20
+                :carbon-dioxide 0.04
+                :water          0.01}})
+
+(def some-other-planet
+  {:name       "Mercury"
+   :mass       0.2
+   :density    7.8
+   :atmosphere {:nitrogen       0.52
+                :oxygen         0.01
+                :carbon-dioxide 0.15
+                :water          0}})
 
 ;; Now the previous expression works, because 'planet' is a global reference... indeed, we can now even remove the 'let' bindings and get results
 ;; BUT beware of 'def' ... explain why
@@ -129,84 +138,120 @@
 ;; Because, lexical scope.
 ;; Spend some time on this --- this will take time to absorb.
 
-;; What if we want a planet-property-querying-abstraction?
-;; Named functions!
-;; Also are data->data transformations
 
-(defn planet-props [planet prop-keys]
-  ;; Oh we used this before ... nice
-  (select-keys planet prop-keys))
+;; We want to find out if a planet has plenty of oxygen.
+;; How do we get the amount of oxygen a planet has?
 
-;; Another way
-(defn planet-props-variadic [planet & prop-keys]
-  (select-keys planet prop-keys))
+;; Evaluate these in the REPL, and build the function up gradually:
 
-;; Yet another way, with a query map (no-sql DB anyone?)
-(defn planet-props-hash [query-map]
-  (select-keys (:planet query-map)
-               (:prop-keys query-map)))
+(:atmosphere planet)
+;; This gives us the atmosphere. We want to pull :oxygen out of it.
+(:oxygen (:atmosphere planet))
+;; Perfect! A planet is oxygen-rich if it has more than 0.15 oxygen.
+(> (:oxygen (:atmosphere planet))
+   0.15)
+;; We can extract this into a function
 
-;; A more convenient way
-(defn planet-props-hash-destructure [{:keys [planet prop-keys]}]
-  (select-keys planet prop-keys))
+(defn oxygen-rich?
+  [planet]
+  (> 0.15 (:oxygen (:atmosphere planet))))
 
-;; What if I want the original planet back?
-(defn planet-props-plus-original [{:keys [planet prop-keys]
-                                   :as   query-map}]
-  ;; we could...
-  (assoc {:planet planet}
-    :props (select-keys planet prop-keys))
+(doc get-in)
 
-  ;; ;; or we could...
-  (comment
-    (assoc (dissoc query-map :prop-keys)
-      :props (select-keys planet prop-keys)))
+;; Better version, using get-in
+(defn oxygen-rich?
+  [planet]
+  (> (get-in planet [:atmosphere :oxygen])
+     0.15))
 
-  ;; but that's just silly (in this case)
-  ;; 'cause we could "literally" return a map
-  (comment
-    {:planet planet
-     :props  (select-keys planet prop-keys)})
-  )
 
+;; But before we go any further... Here's our dirty secret...
+;; 'defn' is actually 'def' in disguise
+(def oxygen-rich?
+  (fn [planet]
+    (> (get-in planet [:atmosphere :oxygen])
+       0.15)))
+
+;; Explain anonymous functions
+
+;; EXERCISE: Write a function to find the volume of a planet.
+;; The volume is mass divided by density.
+
+;; Solution:
+(defn volume [planet]
+  (/ (:mass planet)
+     (:density planet)))
+
+;; Destructuring is a more elegant way to pull data out of a Clojure data structure.
+;; The volume function can also be written like this:
+
+(defn volume [{:keys [mass density]}]
+  (/ mass density))
+
+;; Hash-maps are just one kind of "Sequence"
+;; Hold forth on "sequences", and a few basic operations on sequences
+;; first, last, rest
+
+;; Another kind of sequence is a vector.
+;; A simple ordered, indexed collection of values.
+;; Thus:
+(def my-vector [1 42 "baz" :quux])
+
+;; Since vectors are sequences, all the typical sequence operations work on them.
+(first my-vector)
+(last my-vector)
+(rest my-vector)
+
+;; We can add an element to the end of a vector using conj
+(conj my-vector "Jabberwocky")
+;; ...but we never mutate the original vector!
+my-vector
+
+;; We can have vectors of anything...including planets!
+
+(def planets
+  [{:name       "Earth"
+    :mass       1
+    :density    5.5
+    :atmosphere {:nitrogen       0.78
+                 :oxygen         0.20
+                 :carbon-dioxide 0.04
+                 :water          0.01}}
+   {:name       "Mercury"
+    :mass       0.2
+    :density    7.8
+    :atmosphere {:nitrogen       0.52
+                 :oxygen         0.01
+                 :carbon-dioxide 0.15
+                 :water          0}}])
+
+(nth planets 0)
+
+;; Which of these planets are oxygen-rich?
+;; We already have a function to tell us if a planet is oxygen-rich.
+;; How can we apply it to many planets?
+
+(doc filter)
+
+(filter oxygen-rich? planets)
 
 ;; Explain "destructuring" a bit.
 ;; (Shameless plug: I think I wrote pretty neat explanation here:
 ;; https://stackoverflow.com/a/24483685)
 
-
-
-;; Hash-maps are just one kind of "Sequence"
-;; Hold forth on "sequences", and a few basic operations on sequences
-;; get, first, last, rest
-;; "Oh, by the way, these are all pure functions too!"
-;; Remember kids data->data transformations.
-
 ;; NOTE to self:
 ;; DON'T do map/reduce/filter just yet ... that's later down below,
 ;; when the problem gets more interesting
-
-
-;; But before we go any further... Here's our dirty secret...
-;; 'defn' is actually 'def' in disguise
-(def planet-by-def
-  (fn [planet prop-keys]
-    (select-keys planet prop-keys)))
 
 ;; Hold forth upon vars now, till it's clear to people
 
 ;; Oh, also explain anonymous functions
 
-
 ;; GOTCHA: Compilation is single-pass!
 ;; (but that's quite a nice thing in practice, because,
 ;; "linear" code is easier to reason about and debug)
 
-
-
 ;; Moving on ....
-
-
 
 ;; What if we have many planets?
 ;; In a JSON file?
