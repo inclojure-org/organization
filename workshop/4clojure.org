@@ -1,0 +1,10 @@
+* Easy
+** [[http://www.4clojure.com/problem/126][126]] - Looking through the Class
+** [[http://www.4clojure.com/problem/19][19]]
+- With 'last'
+- Without 'last'
+** [[http://www.4clojure.com/problem/118][118]]
+
+* Medium
+** [[http://www.4clojure.com/problem/56][56]]
+** [[http://www.4clojure.com/problem/177][177]] - Balancing brackets

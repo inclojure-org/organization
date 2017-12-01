@@ -3,6 +3,7 @@
 GH_LEIN_SCRIPT_IX=https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein
 GH_LEIN_SCRIPT_WIN=https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein.bat
 LEIN_CMD=lein
+CURL_CMD=curl
 
 which $LEIN_CMD &> /dev/null
 LEIN_FOUND=$?
@@ -30,5 +31,5 @@ else
     else
 	printf "Add ${RED}$PREFERRED_PATH${NC} to \$PATH please.\n"
     fi
-    printf "Download leiningen from either \\n 1. ${LINK_COLOR}$GH_LEIN_SCRIPT_IX${NC}, or\n 2. ${LINK_COLOR}$GH_LEIN_SCRIPT_WIN${NC}\n depending on your OS, and into $PREFERRED_PATH\n"
+    printf "Download leiningen from either of the following locations\n 1. ${LINK_COLOR}$GH_LEIN_SCRIPT_IX${NC} (Linux or Mac), or\n 2. ${LINK_COLOR}$GH_LEIN_SCRIPT_WIN${NC} (Windows)\n depending on your OS, and into $PREFERRED_PATH\n"
 fi
