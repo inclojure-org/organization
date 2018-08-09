@@ -1,0 +1,25 @@
+Hello <Person, people>!
+
+I'm writing to you on behalf of the IN/Clojure 2018 team.
+
+Things with IN/Clojure have moved on further since the last time we
+spoke. We've put out a tentative schedule, we've opened the CFP, and
+all the details are on inclojure.org.
+
+Just as a quick recap, IN/Clojure 2018 is the second edition of Asia's
+first Clojure conference, and is scheduled to be held in Bengaluru
+over two days - the 12th and the 13th of January, 2018. This edition
+includes a one-day workshop on Clojure on the 12th and a single-track
+presentations conference on the 13th.
+
+<Why we think _this_ company should sponsor the conference> We'd be
+very pleased if <Comany> can help grow the adoption - and community -
+of Clojure in India by supporting this conference as a Sponsor. The
+details for all slabs are included in the attached sponsorship
+brochure.
+
+We look forward to hearing from you soon!
+
+Cheers,
+Srihari Sriraman
+(For the IN/Clojure 2018 team)

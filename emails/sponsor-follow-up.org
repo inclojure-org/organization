@@ -1,0 +1,22 @@
+Subject: IN/Clojure Sponsorship: Next steps
+
+Dear <CompanyName>,
+
+Thank you so much for sponsoring IN/Clojure 2018!
+
+As next steps, please share with us the following before 26th December:
+
+1. A logo, preferably a vector in PDF, or a high res png. We'll use this in our website, banners, videos, etc.
+2. A link, that would be the target landing page for clicking on your logo.
+3. A brief writeup about the company in 200 words. We'll put this up on our website along with your logo.
+3. A hiring blurb of 150-300 words. We'll send this out as a part of the hiring email to all attendees before the conference.
+
+We'll also need the following delivered to the venue (Hotel Royal Orchid), by 9am on 12th January (day of the workshop):
+
+1. Standees, with a maximum size of 6ft x 3ft. We'll put these up at the workshop rooms on 12th, and you can have it by your desk on 13th.
+2. Handouts/Inserts, about 150 in number. A4 size marketing/hiring pamphlets we'll give to attendees during registration.
+3. Stickers, or other small give-aways you want to add to the registration give-aways.
+
+Also, please claim your <NumberOfTickets> tickets using discount code <IN/Clojure-2018-Sponsor-CompanyName> at http://inclojure.org/#tickets.
+
+Thanks so much!
