@@ -1,5 +1,5 @@
 * Checklist for Organizers
-** Top level
+** Init planning
 - [ ] Decide organizing team (3 < n < 10)
 - [ ] Decide city, ensure someone in the team can do ground work in the city
 - [ ] Meet up physically, or over video-chat at least once
@@ -20,13 +20,36 @@
 - [ ] Visit a few days in advance to ensure everything is set
 
 ** Commercials
+- [ ] Decide owners
+- [ ] Understand previous year's spendings
+- [ ] Understand minimum sponsorship, ticketing requirements to make the conference happen
+- [ ] Based on broad plan for year, decide budgets for talks, workshops, venue, etc
+- [ ] Decide speaker reimbursements
+- [ ] Decide organizer reimbursements
+- [ ] Ensure owners have access to funds
+- [ ] Track commercials on a spreadsheet accessible to all organizers
+
+** Website
+- [ ] Decide owner for website
+- [ ] Decide theme/visual changes in website
+- [ ] Ensure continuous deploy is setup
+- [ ] Ensure HTTPS is setup
+- [ ] Make updates, edits through the organization process
 
 ** Sponsorship
+- [ ] Decide sponsorship levels, limits, and benefits based on commercials
+- [ ] Make, or update the sponsorship prospectus (https://github.com/inclojure-org/organization/tree/master/sponsorship)
+- [ ] Make a list of potential sponsors
+- [ ] Send out sponsorship emails to potential sponsors
+- [ ] Follow up with sponsors
+- [ ] Announce sponsorship on twitter
 
 ** Invite Speakers
+- [ ] Decide how many international speakers to invite
 - [ ] Make fantasy list of speakers to invite, trim it down. Max 3.
 - [ ] Talk, or Write to speakers interested in order of priority
 - [ ] Follow up, get approval.
+- [ ] Arrange for their travel, share details with them.
 - [ ] Arrange for their accommodation, share details with them.
 
 ** Talks
@@ -41,19 +64,78 @@
   - [ ] Decide committee for the year (preferably at least one organizer in it)
   - [ ] Write to them, get approval
   - [ ] Share proposals over github, etc
-  - [ ] Set up a google spreadsheet with columns for judgement
+  - [ ] Use papercall, or something alike, to decide top-list of talks
   - [ ] Set date for selection of talks, get committee to evaluate by then
+  - [ ] Organizers go over final list of talks, make final calls, make schedule
   - [ ] Announce talks, publicize with schedule.
+- [ ] Make schedule
+  - [ ] Go over last year's list as a reference for timings and planning
+  - [ ] Ensure the timing of talks matches venue timings
+  - [ ] Plan for sufficient time in between talks for attendees to socialize
+  - [ ] Plan for sufficient time in between talks for speakers to get ready
+  - [ ] Plan for non-full-talk sessions (lightning talks, fish bowl, panel, unsessions, etc)
 
 ** Tickets
 - [ ] Decide pricing
   - Example: [Day 1: 1000], [Day 2: 2000], [Day 1+2: 2500]
+- [ ] Add early bird pricing, and dates
+- [ ] Add workshop pricing, and dates
 - [ ] Set up ticketing portal
 - [ ] Ensure bank details are set
+- [ ] Put up ticketing on the website
+- [ ] Setup discounts, or links for sponsor tickets, organizers, op-grants, etc
 - [ ] Announce opening of tickets, publicize
+- [ ] Sell tickets
+  - [ ] Tweet again, ask more people to retweet
+  - [ ] Write to all the potential sponsors asking them to
+  - [ ] Write to potential sponsors about tickets being available
 
 ** A/V
+- [ ] Decide AV requirements at a broad level
+- [ ] Decide an AV vendor (check previous years list of vendors, pricing)
+- [ ] Mediate discussions between the venue in-charge, and the AV vendor
+
+** Stage, and venue setup
+- [ ] Decide stage and venue setup requirements at a broad level
+- [ ] Decide an AV vendor (check previous years list of vendors, pricing)
+- [ ] Mediate discussions between the venue in-charge, and the AV vendor
 
 ** Workshop
+- [ ] Decide owners
+- [ ] Decide target audience groups
+- [ ] Decide the conductors, and volunteering tutors
+- [ ] Decide the duration, max-num-of-audience, format of workshops
+- [ ] Understand infra requirements, communicate to team
+- [ ] Decide tooling needs
+- [ ] Update workshop page with details on the website
+- [ ] Tweet about workshop early, open registrations before conference registrations
+- [ ] Work on content of workshop
+- [ ] Ensure tutors are familiar with workshop
+- [ ] Write to attendees about setup instructions
 
 ** Media
+- [ ] Assign owner to twitter
+- [ ] Ensure branding is consistent across website, twitter, ticketing, etc
+- [ ] Make designs, or illustrations as per the year's theme
+- [ ] Decide stage, or banner setup, and coordinate with venue/stage vendors
+
+** Swag / Give-aways
+- [ ] Assign owners to swags, and give-aways
+- [ ] Design, or decide what the give-aways will be, based on commercials
+- [ ] Coordinate with vendors for delivering swags well before the conference
+- [ ] Ensure lanyards are printed, with people's names on them
+
+** Opportunity grants
+- [ ] Decide owners
+- [ ] Decide target audience
+- [ ] Decide criteria for acceptance, and set an end-date for it, add to website, announce it
+- [ ] Setup application form, process, be notified when someone applies
+- [ ] Go through applicants, decide who qualifies
+- [ ] Write to applicants for more information, potentially
+- [ ] Write to applicants who qualified, and who didn't
+- [ ] Send qualifiers tickets
+
+** Last mile
+- [ ] Once talks are done, decide and publish schedule, announce it
+- [ ] Plan locations in venue for talks, lunch, and lobby talks
+- [ ] Coordinate daily with A/V, Stage, Venue vendors
