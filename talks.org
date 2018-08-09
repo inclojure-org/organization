@@ -1,0 +1,8 @@
+| Name    | Contact    | Tshirt size | OS     | HDMI Port? | Slides shared? | Demos?     |
+|---------+------------+-------------+--------+------------+----------------+------------|
+| Kapil   | <redacted> | M           | Mac OS | Yes        | Not yet        | Don't know |
+| Jake    |            | S           | Mac OS | Yes        | Not yet        | gifs       |
+| Kiran   | <redacted> | M           | Ubuntu | No         | Not yet        | No demos   |
+| Varun   | -          | -           | -      | -          | -              | -          |
+| Shafeeq | -          | -           | -      | -          | -              | -          |
+| Rakesh  | <redacted> | S           | Mac OS | Yes        | Not yet        | Not sure   |
