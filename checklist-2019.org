@@ -1,0 +1,7 @@
+* Todo for 2019
+- [ ] Decide broad theme. More indian? More workshops?
+- [ ] Decide organizers, assign owners, invite to slack
+- [ ] Make a private vault repository on gitlab, with all the secrets
+- [ ] Have a decent website, and illustrations
+- [ ] Broaden the team, have owners for more high-level things
+- [ ] Do want star speakers like David Nolen, or Stu Halloway?

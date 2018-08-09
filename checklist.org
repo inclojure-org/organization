@@ -2,6 +2,7 @@
 ** Init planning
 - [ ] Decide organizing team (3 < n < 10)
 - [ ] Decide city, ensure someone in the team can do ground work in the city
+- [ ] Decide tentative dates for the conference
 - [ ] Meet up physically, or over video-chat at least once
 - [ ] Understand motive for conference, decide theme (if any)
 - [ ] Decide target number of participants
@@ -61,6 +62,7 @@
   - [ ] Write to all the clojure companies, asking them to encourage speakers
   - [ ] Keep publicizing CFP until we have enough submissions
 - [ ] Talk Selection
+  - [ ] Close CFP, or extend CFP, tweet about it
   - [ ] Decide committee for the year (preferably at least one organizer in it)
   - [ ] Write to them, get approval
   - [ ] Share proposals over github, etc
@@ -74,6 +76,12 @@
   - [ ] Plan for sufficient time in between talks for attendees to socialize
   - [ ] Plan for sufficient time in between talks for speakers to get ready
   - [ ] Plan for non-full-talk sessions (lightning talks, fish bowl, panel, unsessions, etc)
+- [ ] Coordinate with speakers
+  - [ ] Communicate acceptance, or rejection, or waitlisting
+  - [ ] Get speaker details for the website, and announcements
+  - [ ] Send out guidelines for talks, ask for slides at a given date
+  - [ ] Setup reviewers for talks, and slides
+  - [ ] Give feedback to speakers, help them with whatever they need for the conference
 
 ** Tickets
 - [ ] Decide pricing
@@ -100,6 +108,12 @@
 - [ ] Decide an AV vendor (check previous years list of vendors, pricing)
 - [ ] Mediate discussions between the venue in-charge, and the AV vendor
 
+** Internet setup at venue
+- [ ] Assign owners
+- [ ] Understand internet requirements based on workshop, talks, etc
+- [ ] Decide vendors for internet (venue, or external)
+- [ ] Follow up with them, coordinate with venue in-charge
+
 ** Workshop
 - [ ] Decide owners
 - [ ] Decide target audience groups
@@ -120,8 +134,9 @@
 - [ ] Decide stage, or banner setup, and coordinate with venue/stage vendors
 
 ** Swag / Give-aways
-- [ ] Assign owners to swags, and give-aways
+- [ ] Assign owners
 - [ ] Design, or decide what the give-aways will be, based on commercials
+- [ ] Decide on stickers, t-shirts, mugs, socks, gadgets, etc
 - [ ] Coordinate with vendors for delivering swags well before the conference
 - [ ] Ensure lanyards are printed, with people's names on them
 
@@ -139,3 +154,5 @@
 - [ ] Once talks are done, decide and publish schedule, announce it
 - [ ] Plan locations in venue for talks, lunch, and lobby talks
 - [ ] Coordinate daily with A/V, Stage, Venue vendors
+- [ ] Decide volunteers for the registration desk
+- [ ] Make payments to vendors
