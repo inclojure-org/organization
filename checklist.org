@@ -103,9 +103,10 @@
 - [ ] Decide an AV vendor (check previous years list of vendors, pricing)
 - [ ] Mediate discussions between the venue in-charge, and the AV vendor
 
-** Stage, and venue setup
+** Stage, and Event Management
 - [ ] Decide stage and venue setup requirements at a broad level
 - [ ] Decide an AV vendor (check previous years list of vendors, pricing)
+- [ ] Decide an Event management vendor (state, AV)
 - [ ] Mediate discussions between the venue in-charge, and the AV vendor
 
 ** Internet setup at venue
