@@ -1,0 +1,17 @@
+* Learnings from running IN/Clojure 2019
+
+- Offer fewer benefits to gold and silver sponsors (logistics reasons). Easy to give, impossible to take away.
+- Send an email to sponsors at the beginning, and keep
+  * one thread for invoice + sponsorship + following up on monies
+  * one thread for everything else: make a comprehensive list at the start, and keep updating it (maybe this can be a link)
+- Communicate the check-in dates to hotels for members flying in clearly so that they optimise the flight bookings accordingly
+- Make the acco dates for invited speakers versus organizers versus volunteers versus everyone else, clear, as policy in the beginning
+- Design the website at least 3 months in advance
+- Settle on the swag items and the design at least 1 month in advance
+- Either set up transfer through the ticket booking site or make it clear that there is no refund policy (or refunds will be made after the event, or whatever the policy is)
+- Set up aliases: help@inclojure.org, tickets@inclojure.org, sponsorship@inclojure.org etc.
+- Setup sketch to auto-generate lanyard cards for all participants (if this is possible)
+  - Or use printed labels to paste on a lanyard template (hasgeek does this i think)
+- There should be white space at the bottom of the stage backdrop, so all sponsor logos are visible.
+- Feedback forms should be announced with the welcome pitch.
+- Also in a mail to all attendees on the conf day morning.
