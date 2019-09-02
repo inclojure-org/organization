@@ -13,5 +13,5 @@
 - Setup sketch to auto-generate lanyard cards for all participants (if this is possible)
   - Or use printed labels to paste on a lanyard template (hasgeek does this i think)
 - There should be white space at the bottom of the stage backdrop, so all sponsor logos are visible.
-- Feedback forms should be announced with the welcome pitch.
+- Feedback forms should be announced with the welcome pitch. Consider using paper forms for feedback as they tend to be more effective.
 - Also in a mail to all attendees on the conf day morning.
